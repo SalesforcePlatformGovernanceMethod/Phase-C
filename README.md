@@ -2,11 +2,11 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/phase-c/blob/53dec933f4be162e1987e313baa7c47f9b72c83f/images/phase-c.png" title="Phase C">
 </p>
 
-## Phase C: Identity &amp; Access Management
+# Phase C: Identity &amp; Access Management
 
 <br>
 
-**IDM / Single Sign On**
+## **IDM / Single Sign On**
 
 - [Identity Implementation Guide](https://developer.salesforce.com/docs/atlas.en-us.identityImplGuide.meta/identityImplGuide/identity_overview.htm)
 
